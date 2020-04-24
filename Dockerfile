@@ -15,4 +15,6 @@ COPY --from=build-env /src/Data ./Data
 
 RUN ls -lrt /src
 
+EXPOSE 80
+
 ENTRYPOINT ["dotnet", "dotnetAPI1/bin/Release/netcoreapp3.1/dotnetAPI1.dll"]
