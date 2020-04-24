@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZq2usIY8dzLyHIxGrB27aBeo/syjJePElxOfpBtuoENonhYs5Ha471jHKNvSqm63+lGnIrZYMzIPcGnuTk9nA==",
+  "success": true,
+  "projectFilePath": "/Users/siqiliu/Projects/dotnetAPI1/dotnetAPI1/dotnetAPI1.csproj",
+  "expectedPackageFiles": [
+    "/Users/siqiliu/.nuget/packages/documentformat.openxml/2.10.1/documentformat.openxml.2.10.1.nupkg.sha512",
+    "/Users/siqiliu/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A8DD1DD5-ECF3-4164-827D-4119E0E3C6C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnetAPI1/Startup.cs">
+    <Files>
+      <File FileName="dotnetAPI1/Program.cs" Line="1" Column="1" />
+      <File FileName="dotnetAPI1/Startup.cs" Line="1" Column="1" />
+      <File FileName="dotnetAPI1/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnetAPI1" expanded="True">
+            <Node name="dotnetAPI1" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.dotnetAPI1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
